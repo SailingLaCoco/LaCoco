@@ -2209,33 +2209,3 @@ a {
   text-align: center;
   color: #353535;
 }
-.cid-tCUIPHkBji {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background: #91aec2;
-}
-.cid-tCUIPHkBji .google-map {
-  height: 30rem;
-  position: relative;
-}
-.cid-tCUIPHkBji .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-tCUIPHkBji .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-tCUIPHkBji .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-tCUIPHkBji .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
